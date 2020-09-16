@@ -4,8 +4,27 @@ h1 {
     font-size: 50px;
 }
 main {
-    border: 5px solid #000;
+    border: 2.5px solid #000;
 }
 article {
-    border: 5px solid #000;
+    border: 2.5px solid #000;
+}
+main h2 {
+    text-decoration: underline;
+}
+main p{
+    color:blue;
+}
+article h2 {
+    text-decoration: underline;
+    text-align: center;
+}
+article h3{
+    text-align: center;
+}
+article p{
+    color:green
+}
+body {
+    font-family: "Poppins", Helvetica, sans-serif;
 }
