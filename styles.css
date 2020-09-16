@@ -28,3 +28,6 @@ article p{
 body {
     font-family: "Poppins", Helvetica, sans-serif;
 }
+div{
+    #spacer {height:50px;}
+}
