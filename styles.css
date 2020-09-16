@@ -5,12 +5,16 @@ h1 {
 }
 main {
     border: 2.5px solid #000;
+    padding: 10px;
+    margin 10px;
 }
 #section1 p {
     text-decoration: italic;
 }
 #section3 {
     border: 2.5px solid #000;
+    padding: 10px;
+    margin 10px;
 }
 main h2 {
     text-decoration: underline;
@@ -26,7 +30,7 @@ main p{
 #section3 h3 {
     text-align: center;
     background-color: green;
-}
+    }
 #section3 p {
     text-align: center;
     color:white;
