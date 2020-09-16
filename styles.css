@@ -4,5 +4,8 @@ h1 {
     font-size: 50px;
 }
 main {
-    border: 10px solid #000;
+    border: 5px solid #000;
+}
+article {
+    border: 5px solid #000;
 }
