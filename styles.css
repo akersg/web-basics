@@ -6,7 +6,10 @@ h1 {
 main {
     border: 2.5px solid #000;
 }
-article {
+#section1 p {
+    text-decoration: italic;
+}
+#section3 {
     border: 2.5px solid #000;
 }
 main h2 {
@@ -15,16 +18,26 @@ main h2 {
 main p{
     color:blue;
 }
-article h2 {
+#section3 h2 {
     text-decoration: underline;
     text-align: center;
+    background-color: green;
 }
-article h3{
+#section3 h3 {
     text-align: center;
+    background-color: green;
 }
-article p{
-    color:green
+#section3 p {
+    text-align: center;
+    color:white;
+    background-color: green;
 }
 body {
     font-family: "Poppins", Helvetica, sans-serif;
+}
+#section2{
+    border-style: dotted;
+    border-color: black;
+    padding: 10px;
+    margin: 20px;
 }
